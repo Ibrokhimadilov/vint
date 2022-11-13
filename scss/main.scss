@@ -1,0 +1,17 @@
+*{
+   margin: 0;
+   padding: 0;
+   box-sizing: border-box;
+}
+.blades {
+    transform-origin: 50% 50%;
+    animation: spin 1s /*оборот за 1секунду*/ linear infinite; 
+  }
+  @keyframes spin {
+    from {
+      transform:rotate(0deg);
+     }
+    to {
+      transform:rotate(4120deg);
+    }
+  }

@@ -1,0 +1,2 @@
+*{margin:0;padding:0;-webkit-box-sizing:border-box;box-sizing:border-box}.blades{-webkit-transform-origin:50% 50%;transform-origin:50% 50%;-webkit-animation:spin 1s linear infinite;animation:spin 1s linear infinite}@-webkit-keyframes spin{from{-webkit-transform:rotate(0deg);transform:rotate(0deg)}to{-webkit-transform:rotate(4120deg);transform:rotate(4120deg)}}@keyframes spin{from{-webkit-transform:rotate(0deg);transform:rotate(0deg)}to{-webkit-transform:rotate(4120deg);transform:rotate(4120deg)}}
+/*# sourceMappingURL=main.min.css.map */
